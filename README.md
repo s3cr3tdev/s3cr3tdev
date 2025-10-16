@@ -1,18 +1,18 @@
-# <p align="center">Hi 👋, I'm Adam</p>
+## <p align="center"> <strong>Hi 👋, I'm Adam</strong></p>
 
 <p align="center">
-  <strong>Full‑stack developer from Hungary</strong><br>
+  <strong>Software Engineer from Hungary</strong><br>
   I build fast, accessible and maintainable web apps frontend & backend.
 </p>
 
----
+----
 
-## About me
+### About me
 I'm a frontend & backend developer who loves clean UI, solid architecture and pragmatic solutions. I enjoy turning ideas into working products and improving user experience with performant, maintainable code.
 
 ---
 
-## Tech & tools
+### Tech & tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/></a>
@@ -31,15 +31,5 @@ I'm a frontend & backend developer who loves clean UI, solid architecture and pr
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/></a>
 </p>
 
----
 
-## Support me
-[<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="50">](https://ko-fi.com/sadamdev)
 
----
-
-## GitHub stats
-<p align="left">
-  <img alt="Adam's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s3cr3tdev&show_icons=true&theme=tokyonight" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3cr3tdev&layout=compact&theme=tokyonight" />
-</p>
